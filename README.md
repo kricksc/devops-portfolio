@@ -1,16 +1,19 @@
-```DevOps Engineer Portfolio```
-```About Me```
+``DevOps Engineer Portfolio``
+
+
+``About Me``
+
 Seasoned DevOps Engineer with 7+ years of experience building and scaling cloud-native infrastructure. AWS and Kubernetes certified professional passionate about automation, infrastructure as code, and implementing CI/CD pipelines that enhance development workflows. Proven track record of reducing deployment times, optimizing costs, and improving system reliability.
 Core Skills
 
-Cloud Platforms: AWS, Azure, GCP
-Container Orchestration: Kubernetes (EKS, AKS), Docker, Helm
-Infrastructure as Code: Terraform, CloudFormation, Ansible
-CI/CD: Jenkins, GitLab CI, GitHub Actions, ArgoCD
-Monitoring & Observability: CloudWatch, Datadog, Prometheus, Grafana
-Programming: Python, Bash, Golang, Ruby
+```Cloud Platforms:``` AWS, Azure, GCP
+```Container Orchestration:``` Kubernetes (EKS, AKS), Docker, Helm
+```Infrastructure as Code:``` Terraform, CloudFormation, Ansible
+```CI/CD:``` Jenkins, GitLab CI, GitHub Actions, ArgoCD
+```Monitoring & Observability:``` CloudWatch, Datadog, Prometheus, Grafana, Sumologic, Splunk
+```Programming:``` Python, Bash, Golang, Ruby, Java
 
-Featured Projects
+``Featured Projects``
 Multi-Region Kubernetes Platform
 Overview: Designed and implemented a scalable, multi-region Kubernetes platform on AWS EKS with GitOps-based deployment.
 Technologies Used: Kubernetes, Terraform, ArgoCD, AWS EKS, CloudWatch, Prometheus
@@ -48,12 +51,12 @@ Results: Reduced MTTR (Mean Time to Resolution) by 35% and improved incident res
 Open Source Contributions
 
 
-```Blog Posts```
+``Blog Posts``
 
 The Hidden Pitfalls of ECS Cluster Management: Lessons from the OS Version Mistakes
 
 
-```Certifications```
+``Certifications``
 
 Certified Kubernetes Administrator
 AWS Certified Solutions Architect
@@ -62,7 +65,7 @@ Certified Kubernetes Administrator
 HashiCorp Certified: Terraform Associate
 GitOps Certified (ArgoCD)
 
-```Contact Information```
+``Contact Information``
 
 Email: utoobbott@gmail.com
 LinkedIn: https://www.linkedin.com/in/uto-obbott/
